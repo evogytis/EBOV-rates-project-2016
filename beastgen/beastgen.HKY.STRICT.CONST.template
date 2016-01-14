@@ -187,7 +187,7 @@
 		</log>
 
 		<!-- write log to file                                                       -->
-		<log id="fileLog" logEvery="${log_every}" fileName="unpart_strict_const${filename_stem}.log" overwrite="false">
+		<log id="fileLog" logEvery="${log_every}" fileName="unpart_strict_const_${filename_stem}.log" overwrite="false">
 			<posterior idref="posterior"/>
 			<prior idref="prior"/>
 			<likelihood idref="likelihood"/>
@@ -201,7 +201,7 @@
 		</log>
 
 		<!-- write tree log to file                                                  -->
-		<logTree id="treeFileLog" logEvery="${log_every}" nexusFormat="true" fileName="unpart_strict_const${filename_stem}.trees" sortTranslationTable="true">
+		<logTree id="treeFileLog" logEvery="${log_every}" nexusFormat="true" fileName="unpart_strict_const_${filename_stem}.trees" sortTranslationTable="true">
 			<treeModel idref="treeModel"/>
 			<trait name="rate" tag="rate">
 				<strictClockBranchRates idref="branchRates"/>
