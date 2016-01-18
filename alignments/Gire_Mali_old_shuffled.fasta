@@ -1583,7 +1583,7 @@ gtaagctact attccattca gaatgataaa attaaaagaa aagacatgac tgtaaaatca
 gaaatacctt ctttacaata tagcagacta gataataatc ttcgtgttaa tgataattaa
 ggcattgacc acgctcatca gaaggctcac tagaataaac gttgcaaaaa ggatccctgg
 aaaaatggtc gcacacaaaa atttaaaaat aaatctattt cttctttttt gtgtgt---
->KM233045|Makona-EM124.1|2014-06-04
+>KM233044|Makona-EM121|2014-06-04
 ---------- ---------- ---------- ---------- ----cgaata actatgagga
 agattaataa ttttcctctc attgaaattt atatcggaat ttaaattgaa attgttactg
 taatcatacc tggtttgttt cagagccata tcaccaagat agagaacaac ctaggtctcc
@@ -1900,7 +1900,7 @@ gtaagctact attccattca gaatgataaa attaaaagaa aagacatgac tgtaaaatca
 gaaatacctt ctttacaata tagcagacta gataataatc ttcgtgttaa tgataattaa
 ggcattgacc acgctcatca gaaggctcac tagaataaac gttgcaaaaa ggatccctgg
 aaaaatggtc gcacacaaaa atttaaaaat aaatctattt cttctttttt gtgtgt---
->KM233044|Makona-EM121|2014-06-04
+>KM233045|Makona-EM124.1|2014-06-04
 ---------- ---------- ---------- ---------- ----cgaata actatgagga
 agattaataa ttttcctctc attgaaattt atatcggaat ttaaattgaa attgttactg
 taatcatacc tggtttgttt cagagccata tcaccaagat agagaacaac ctaggtctcc
@@ -5387,7 +5387,7 @@ gtaagctact attccattca gaatgataaa attaaaagaa aagacatgac tgtaaaatca
 gaaatacctt ctttacaata tagcagacta gataataatc ttcgtgttaa tgataattaa
 ggcattgacc acgctcatca gaaggctcac tagaataaac gttgcaaaaa ggatccctgg
 aaaaatggtc gcacacaaaa atttaaaaat aaatctattt cttctttttt gtgtgt---
->KM233040|Makona-EM113|2014-06-03
+>KM233039|Makona-EM112|2014-06-03
 ---------- ---------- ---------- -gatcttttg tgtgcgaata actatgagga
 agattaataa ttttcctctc attgaaattt atatcggaat ttaaattgaa attgttactg
 taatcatacc tggtttgttt cagagccata tcaccaagat agagaacaac ctaggtctcc
@@ -5704,7 +5704,7 @@ gtaagctact attccattca gaatgataaa attaaaagaa aagacatgac tgtaaaatca
 gaaatacctt ctttacaata tagcagacta gataataatc ttcgtgttaa tgataattaa
 ggcattgacc acgctcatca gaaggctcac tagaataaac gttgcaaaaa ggatccctgg
 aaaaatggtc gcacacaaaa atttaaaaat aaatctattt cttctttttt gtgtgt---
->KM233039|Makona-EM112|2014-06-03
+>KM233040|Makona-EM113|2014-06-03
 ---------- ---------- ---------- -gatcttttg tgtgcgaata actatgagga
 agattaataa ttttcctctc attgaaattt atatcggaat ttaaattgaa attgttactg
 taatcatacc tggtttgttt cagagccata tcaccaagat agagaacaac ctaggtctcc
@@ -14580,7 +14580,7 @@ gtaagctact attccattca gaatgataaa attaaaagaa aagacatgac tgtaaaatca
 gaaatacctt ctttacaata tagcagacta gataataatc ttcgtgttaa tgataattaa
 ggcattgacc acgctcatca gaaggctcac tagaataaac gttgcaaaaa ggatccctgg
 aaaaatggtc gcacacaaaa atttaaaaat aaatctattt cttctttttt gtgtgtcc-
->KM233066|Makona-G3769.2|2014-06-13
+>KM233065|Makona-G3769.1|2014-06-12
 ----cacaca aaaagaaaga agaattttta ggatcttttg tgtgcgaata actatgagga
 agattaataa ttttcctctc attgaaattt atatcggaat ttaaattgaa attgttactg
 taatcatacc tggtttgttt cagagccata tcaccaagat agagaacaac ctaggtctcc
@@ -14897,7 +14897,7 @@ gtaagctact attccattca gaatgataaa attaaaagaa aagacatgac tgtaaaatca
 gaaatacctt ctttacaata tagcagacta gataataatc ttcgtgttaa tgataattaa
 ggcattgacc acgctcatca gaaggctcac tagaataaac gttgcaaaaa ggatccctgg
 aaaaatggtc gcacacaaaa atttaaaaat aaatctattt cttctttttt gtgtgtcc-
->KM233065|Makona-G3769.1|2014-06-12
+>KM233066|Makona-G3769.2|2014-06-13
 ----cacaca aaaagaaaga agaattttta ggatcttttg tgtgcgaata actatgagga
 agattaataa ttttcctctc attgaaattt atatcggaat ttaaattgaa attgttactg
 taatcatacc tggtttgttt cagagccata tcaccaagat agagaacaac ctaggtctcc
