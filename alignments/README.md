@@ -2,7 +2,7 @@
 
 ``EBOV_Mali.fasta`` contains 4 Ebola virus genomes from Mali.
 
-``EBOV_Guinea.fasta`` contains 3 Ebola virus genomes from Guinea published by Baize et al (2014).
+``EBOV_Guinea.fasta`` contains 3 Ebola virus genomes from Guinea published by [Baize et al (2014)](http://www.nejm.org/doi/full/10.1056/NEJMoa1404505).
 
 ``EBOV_rates_project_full.fasta`` is the combination of the XML sequences and the Mali sequences.
 
