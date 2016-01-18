@@ -1,4 +1,4 @@
-``EBOV_rates_project_2016.fasta`` contains sequences extracted from the XML, with calendar dates inferred by assuming that Baize isolate C07 was collected on 20 March 2014 and that therefore the dates specified in the XML were calibrated on 21 December 2014.
+``EBOV_rates_project_2016.fasta`` contains sequences extracted from the [XML](https://github.com/evogytis/EBOV-rates-project-2016/blob/master/XMLs/GireWA_hkySCCS_20M_1.xml), with calendar dates inferred by assuming that Baize isolate C07 was collected on 20 March 2014 and that therefore the dates specified in the XML were calibrated on 21 December 2014.
 
 ``EBOV_Mali.fasta`` contains 4 Ebola virus genomes from Mali.
 
