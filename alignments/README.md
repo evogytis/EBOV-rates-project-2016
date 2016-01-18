@@ -11,3 +11,5 @@
 ``Gire_Mali_old.fasta`` contains the initial submission of sequences published as part of the [Gire et al (2014)](http://www.sciencemag.org/content/345/6202/1369.full) study, before collection dates were updated, bundled with Mali sequences.
 
 ``Gire_Mali_old_shuffled.fasta`` contains the same sequences as ``Gire_Mali_old.fasta``, but the labels of the sequences of [Gire et al (2014)](http://www.sciencemag.org/content/345/6202/1369.full) scrambled by sorting. Details [here](https://github.com/evogytis/EBOV-rates-project-2016/blob/master/notebooks/shuffle_sequences.ipynb).
+
+``Gire_Mali_corrected_shuffled.fasta`` was generated in the same way as ``Gire_Mali_old_shuffled.fasta``, but using the [alignment with corrected dates](https://github.com/evogytis/EBOV-rates-project-2016/blob/master/alignments/Gire_Mali_correct.fasta) with the corrected dates. 
