@@ -17,3 +17,7 @@
 ``Gire_oldBaize_old.fasta`` contains sequences from [Gire et al (2014)](http://www.sciencemag.org/content/345/6202/1369.full) with the initial collection dates combined with the 3 [Baize et al (2014)](http://www.nejm.org/doi/full/10.1056/NEJMoa1404505) sequences from Guinea, as they were used in the Gire et al (2014) study (pre-GenBank correction and masked out).
 
 ``Gire_oldBaize_correct.fasta`` contains sequences from [Gire et al (2014)](http://www.sciencemag.org/content/345/6202/1369.full) with the correct collection dates combined with the 3 [Baize et al (2014)](http://www.nejm.org/doi/full/10.1056/NEJMoa1404505) sequences from Guinea, as they were used in the Gire et al (2014) study (pre-GenBank correction and masked out).
+
+``Gire_oldBaize_Mali_old.fasta`` same as ``Gire_oldBaize_old.fasta``, but with Mali sequences included.
+
+``Gire_oldBaize_Mali_correct.fasta`` same as ``Gire_oldBaize_correct.fasta``, but with Mali sequences included.
